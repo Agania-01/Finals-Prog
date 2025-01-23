@@ -32,7 +32,7 @@ Are you ready to face the challenges of the universe? Your adventure begins now!
    - Use gems to summon new characters through the gacha system. Each character has different stats, abilities, and rarities, which will help you on your journey.
 
 4. **Level Up:**
-   - Your character will level up as they gain experience, unlocking new abilities and improving stats like HP and Attack. The game rewards you for leveling up by restoring your character’s HP.
+   - Your character will level up as they gain experience it improves stats like HP and Attack. The game rewards you for leveling up by restoring your character’s HP.
 
 5. **Manage Resources:**
    - Keep track of your gems and skill points, which are used for gacha summons and using abilities during battles. 
@@ -52,4 +52,3 @@ Download the python file and run the script with your terminal
 
 ## Creator:
 Alain Dominic C. Gracia – The creator of Horizon Star Voyage.
-Passionate about game development and storytelling, Alain designed this game to take players on an unforgettable adventure through the stars. His goal is to create immersive, fun, and challenging games for players of all ages.
