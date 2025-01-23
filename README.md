@@ -42,7 +42,6 @@ Are you ready to face the challenges of the universe? Your adventure begins now!
 ## Bugs and Limitations
 **Bugs**
 - Enemy Scaling: The enemy scaling based on battle count may not be applied correctly, leading to inconsistent difficulty.
-- Input Validation: Invalid inputs in the main menu are not fully handled.
 
 **Limitations**
 - Character Summoning: Switching to a new character after summoning doesn't allow the player to manage or switch between multiple characters.
